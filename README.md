@@ -1,10 +1,14 @@
-# Getting Started with Create React App
+# Portfolio Dylk
 
-Aji tsb Protfolio b React m3a Club Innnovation Emsi Marrakech
+Aji tswb Protfolio b React m3a Club Innnovation Emsi Marrakech
 
 ## Available Scripts
 
 In the project directory, you can run:
+
+### `cd aji-tswb-portfolio`
+
+### `npm install`
 
 ### `npm start`
 
