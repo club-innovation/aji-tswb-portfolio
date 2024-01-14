@@ -1,0 +1,59 @@
+.container
+{
+    margin: 80px auto;
+    width: 60%;
+}
+.title
+{
+    color: var(--secondary-color);
+}
+.underline
+{
+    border-bottom: 4px solid var(--secondary-color);
+    width: fit-content;
+}
+
+.formContainer
+{
+    margin-top: 15px;
+    width: 450px;
+    display: flex;
+    flex-direction: column;
+
+}
+
+.formContainer input,
+.formContainer textarea
+{
+    color: #fff;
+    font-size: 18px;
+    padding: 0 15px;
+    background-color: #ffffff10;
+    margin-top: 15px;
+    border: 0;
+    outline: none;
+}
+
+.formContainer input
+{
+    height: 65px;
+}
+
+.formContainer textarea
+{
+    padding-top: 20px;
+    resize: vertical;
+}
+
+.send
+{
+    font-size: 14px;
+    font-weight: bold;
+    background-color: var(--secondary-color);
+    height: 50px;
+    width: 50%;
+    margin-left: 50%;
+    margin-top: 15px;
+    outline: none;
+    cursor: pointer;
+}

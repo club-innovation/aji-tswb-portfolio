@@ -1,0 +1,36 @@
+.container
+{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    height: 60px;
+    background-color: var(--dark-primary-color);
+    border-bottom: 6px solid #00000010;
+}
+
+.title
+{
+    font-size: larger;
+    font-weight: bold;
+    text-decoration: none;
+    color: #fff;
+}
+
+.navigation
+{
+    display: flex;
+    list-style-type: none;
+}
+
+.navigation a
+{
+    color: #fff;
+    text-decoration: none;
+    margin: 0 10px;
+}
+
+
+.navigation a:hover
+{
+    color: var(--dark-secondary-color);
+}
