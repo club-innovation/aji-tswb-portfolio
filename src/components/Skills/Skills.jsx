@@ -24,7 +24,14 @@ function Skills()
   
   return (
     <div id='skills' className={styles.container}>
-      Skills
+      <h1 className={styles.title}><span className={styles.underline}>Skill</span>-Set</h1>
+      <div className={styles.skillsContainer}>
+        {
+          skills.map((skill, index)=>(
+            <SkillCard key={index} img={skill.img} title={skill.title} description={skill.description} />
+          ))
+        }
+      </div>
     </div>
   );
 }
