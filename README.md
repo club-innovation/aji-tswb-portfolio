@@ -2,6 +2,9 @@
 
 Aji tswb Protfolio b React m3a Club Innnovation Emsi Marrakech
 
+![image](https://github.com/club-innovation/aji-tswb-portfolio/assets/63449913/660d4377-2810-438c-aec0-d40883fb2970)
+
+
 ## Available Scripts
 
 In the project directory, you can run:
